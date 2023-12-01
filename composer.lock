@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cb926098f457a1bcc5ac8b328442fd96",
+    "content-hash": "58efad43f286c30a8d9084e6c7837956",
     "packages": [
         {
             "name": "apereo/phpcas",
@@ -3941,16 +3941,16 @@
         },
         {
             "name": "robthree/twofactorauth",
-            "version": "v2.0.0",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/RobThree/TwoFactorAuth.git",
-                "reference": "27cd1e1392d19f178398e892f59062003c8998a4"
+                "reference": "ab93dd41ced7818ecda83a37c2741ee38bb72fb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RobThree/TwoFactorAuth/zipball/27cd1e1392d19f178398e892f59062003c8998a4",
-                "reference": "27cd1e1392d19f178398e892f59062003c8998a4",
+                "url": "https://api.github.com/repos/RobThree/TwoFactorAuth/zipball/ab93dd41ced7818ecda83a37c2741ee38bb72fb7",
+                "reference": "ab93dd41ced7818ecda83a37c2741ee38bb72fb7",
                 "shasum": ""
             },
             "require": {
@@ -4018,7 +4018,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-02-25T11:33:28+00:00"
+            "time": "2023-11-14T12:50:27+00:00"
         },
         {
             "name": "sabre/dav",
@@ -8013,5 +8013,5 @@
     "platform-overrides": {
         "php": "8.1.99"
     },
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
