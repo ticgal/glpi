@@ -33,7 +33,7 @@
         "blueimp/jquery-file-upload": "^10.32",
         "donatj/phpuseragentparser": "^1.7",
         "egulias/email-validator": "^4.0",
-        "elvanto/litemoji": "^4.1",
+        "elvanto/litemoji": "^5.0",
         "glpi-project/inventory_format": "^1.1",
         "guzzlehttp/guzzle": "^7.8",
         "guzzlehttp/psr7": "^2.6",
