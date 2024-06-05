@@ -3790,16 +3790,16 @@
         },
         {
             "name": "symfony/dom-crawler",
-            "version": "v5.4.39",
+            "version": "v5.4.40",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dom-crawler.git",
-                "reference": "1dffb111b038412b028caba029240e379fda85b2"
+                "reference": "2ad469c3e07fdba677b278d0e266071a51aa0dac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/1dffb111b038412b028caba029240e379fda85b2",
-                "reference": "1dffb111b038412b028caba029240e379fda85b2",
+                "url": "https://api.github.com/repos/symfony/dom-crawler/zipball/2ad469c3e07fdba677b278d0e266071a51aa0dac",
+                "reference": "2ad469c3e07fdba677b278d0e266071a51aa0dac",
                 "shasum": ""
             },
             "require": {
@@ -3845,7 +3845,7 @@
             "description": "Eases DOM navigation for HTML and XML documents",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/dom-crawler/tree/v5.4.39"
+                "source": "https://github.com/symfony/dom-crawler/tree/v5.4.40"
             },
             "funding": [
                 {
@@ -3861,7 +3861,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T08:26:06+00:00"
+            "time": "2024-05-31T14:33:22+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -5873,16 +5873,16 @@
         },
         {
             "name": "symfony/browser-kit",
-            "version": "v5.4.39",
+            "version": "v5.4.40",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/browser-kit.git",
-                "reference": "4c5d1a88ceee2b1c5c0b400b0137989ec34f70fa"
+                "reference": "92c8ba1e5ee12d07120744c90898516132b4e58b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/browser-kit/zipball/4c5d1a88ceee2b1c5c0b400b0137989ec34f70fa",
-                "reference": "4c5d1a88ceee2b1c5c0b400b0137989ec34f70fa",
+                "url": "https://api.github.com/repos/symfony/browser-kit/zipball/92c8ba1e5ee12d07120744c90898516132b4e58b",
+                "reference": "92c8ba1e5ee12d07120744c90898516132b4e58b",
                 "shasum": ""
             },
             "require": {
@@ -5925,7 +5925,7 @@
             "description": "Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/browser-kit/tree/v5.4.39"
+                "source": "https://github.com/symfony/browser-kit/tree/v5.4.40"
             },
             "funding": [
                 {
@@ -5941,7 +5941,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T08:26:06+00:00"
+            "time": "2024-05-31T14:33:22+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -6072,16 +6072,16 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v5.4.39",
+            "version": "v5.4.40",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
-                "reference": "3cdc551aa98173bb8bac7e5ee49f3526abde0b04"
+                "reference": "970a4d5a3393be3ba987b91a018e98ee332db63b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-client/zipball/3cdc551aa98173bb8bac7e5ee49f3526abde0b04",
-                "reference": "3cdc551aa98173bb8bac7e5ee49f3526abde0b04",
+                "url": "https://api.github.com/repos/symfony/http-client/zipball/970a4d5a3393be3ba987b91a018e98ee332db63b",
+                "reference": "970a4d5a3393be3ba987b91a018e98ee332db63b",
                 "shasum": ""
             },
             "require": {
@@ -6143,7 +6143,7 @@
                 "http"
             ],
             "support": {
-                "source": "https://github.com/symfony/http-client/tree/v5.4.39"
+                "source": "https://github.com/symfony/http-client/tree/v5.4.40"
             },
             "funding": [
                 {
@@ -6159,7 +6159,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T08:26:06+00:00"
+            "time": "2024-05-31T14:33:22+00:00"
         },
         {
             "name": "symfony/http-client-contracts",
@@ -6241,16 +6241,16 @@
         },
         {
             "name": "symfony/mime",
-            "version": "v5.4.39",
+            "version": "v5.4.40",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/mime.git",
-                "reference": "a5364f016fd9e090f7b4f250a97ea6925a5ca985"
+                "reference": "8c6dc1fb0b1f990aa15086abcde66dbde3a9bdad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/mime/zipball/a5364f016fd9e090f7b4f250a97ea6925a5ca985",
-                "reference": "a5364f016fd9e090f7b4f250a97ea6925a5ca985",
+                "url": "https://api.github.com/repos/symfony/mime/zipball/8c6dc1fb0b1f990aa15086abcde66dbde3a9bdad",
+                "reference": "8c6dc1fb0b1f990aa15086abcde66dbde3a9bdad",
                 "shasum": ""
             },
             "require": {
@@ -6306,7 +6306,7 @@
                 "mime-type"
             ],
             "support": {
-                "source": "https://github.com/symfony/mime/tree/v5.4.39"
+                "source": "https://github.com/symfony/mime/tree/v5.4.40"
             },
             "funding": [
                 {
@@ -6322,7 +6322,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T08:26:06+00:00"
+            "time": "2024-05-31T14:33:22+00:00"
         },
         {
             "name": "webmozart/glob",
