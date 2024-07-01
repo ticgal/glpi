@@ -56,7 +56,7 @@
         "psr/simple-cache": "^3.0",
         "ralouphie/getallheaders": "^3.0",
         "ramsey/uuid": "^4.7",
-        "rlanvin/php-rrule": "^2.4",
+        "rlanvin/php-rrule": "^2.5",
         "robthree/twofactorauth": "^2.0",
         "sabre/dav": "^4.4",
         "sabre/http": "^5.1",
